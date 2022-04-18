@@ -1,0 +1,12 @@
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
+Z:\Facu 2022\PROG II\Clases\Clase 7 Encapsulamiento\Arrua_Matias_TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
